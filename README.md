@@ -1,1 +1,3 @@
-Это маленький проект, который способен переводить как целые так и десятичные числа из одной системы счисления в другую.
+It's a pet-project, which allows you to convert numbers from one number system to another number system.
+
+Working with Windows forms.
